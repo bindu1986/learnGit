@@ -4,3 +4,5 @@ bread
 butter
 kheer
 pasta
+pizza
+lasagnia
